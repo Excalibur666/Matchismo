@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BCE0A98AB462C108705C18AFED3CCC4F8FF02431",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2DFAB351C0B50595F5D6DE52FEDFAEB11E9597B6" : 0,
+    "BCE0A98AB462C108705C18AFED3CCC4F8FF02431" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "54479124-8982-40C1-9B32-A4BA4D1AD15D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2DFAB351C0B50595F5D6DE52FEDFAEB11E9597B6" : "Matchismo(Assignment4)\/Matchismo\/",
+    "BCE0A98AB462C108705C18AFED3CCC4F8FF02431" : "Matchismo(Assignment4)\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Matchismo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Matchismo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Excalibur666\/Matchismo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2DFAB351C0B50595F5D6DE52FEDFAEB11E9597B6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Excalibur666\/Matchismo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BCE0A98AB462C108705C18AFED3CCC4F8FF02431"
+    }
+  ]
+}

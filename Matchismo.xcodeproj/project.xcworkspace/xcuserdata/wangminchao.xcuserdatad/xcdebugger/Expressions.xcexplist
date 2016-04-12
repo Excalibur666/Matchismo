@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MatchingCardView drawRect:]:MatchingCardView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.alpha">
+            </PersistentString>
+            <PersistentString
+               value = "_rankIsTen">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CardView drawRect:]:CardView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Card isMatched]:Card.h">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController addCard:]:GameViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MatchingGameViewController currentCardView]:MatchingGameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.buttonViewRect">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController setAllButtonsView]:GameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.allButtonViews.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SetGameViewController game]:SetGameViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController updateAddButton]:GameViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MatchingCardButton titleForCard:]:MatchingCardButton.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "card.isChosen ? card.contents : @&quot;&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[CardView transitionFromCardView:toCardView:]:CardView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController updateButtons]:GameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "index">
+            </PersistentString>
+            <PersistentString
+               value = "button.enabled">
+            </PersistentString>
+            <PersistentString
+               value = "button.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Game cardAtIndex:]:Game.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Game cardWillAdded]:Game.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController viewDidLoad]:GameViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MatchingCardView flipCardForImage:andTitle:inRect:]:MatchingCardView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController pinch:]:GameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "topView.center">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Game hasMatch]:Game.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ExampleViewController viewWillAppear:]:ExampleViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController viewWillAppear:]:GameViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Game initWithCardCount:usingDeck:]:Game.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController updateAllButtonsView]:GameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "row * self.grid.columnCount+ column">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MatchingGameViewController game]:MatchingGameViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[GameViewController resetGame]:GameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CardView animateShowCardView]:CardView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.alpha">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SetCardView drawRect:]:SetCardView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SetGameViewController updateButtons]:SetGameViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MatchingCardButton updateButtonForCard:]:MatchingCardButton.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
